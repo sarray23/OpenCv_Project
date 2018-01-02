@@ -1,0 +1,23 @@
+﻿  Accueil.cpp
+c:\users\asus\documents\visual studio 2015\projects\project\project\Accueil.h(536): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\asus\documents\visual studio 2015\projects\project\project\Accueil.h(575): warning C4244: 'argument' : conversion de 'double' en 'uchar', perte possible de données
+c:\users\asus\documents\visual studio 2015\projects\project\project\Accueil.h(711): warning C4244: 'argument' : conversion de 'double' en 'uchar', perte possible de données
+c:\users\asus\documents\visual studio 2015\projects\project\project\Accueil.h(838): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+Accueil.cpp(6): warning C4829: Paramètres potentiellement incorrects dans la fonction main. Utilisez 'int main(Platform::Array<Platform::String^>^ argv)' à la place
+c:\computer vision\opencv\build\include\opencv2\core\cvstd.hpp(575): warning C4793: 'cv::String::String' : fonction compilée en tant que code natif :
+  	un intrinsèque non pris en charge a été trouvé dans le code managé
+c:\computer vision\opencv\build\include\opencv2\core\mat.inl.hpp(482): warning C4793: 'cv::Mat::Mat' : fonction compilée en tant que code natif :
+  	un intrinsèque non pris en charge a été trouvé dans le code managé
+c:\computer vision\opencv\build\include\opencv2\core\mat.inl.hpp(803): warning C4793: 'cv::Mat::release' : fonction compilée en tant que code natif :
+  	un intrinsèque non pris en charge a été trouvé dans le code managé
+c:\computer vision\opencv\build\include\opencv2\core\mat.inl.hpp(2083): warning C4793: 'cv::SparseMat::addref' : fonction compilée en tant que code natif :
+  	un intrinsèque non pris en charge a été trouvé dans le code managé
+c:\computer vision\opencv\build\include\opencv2\core\mat.inl.hpp(3683): warning C4793: 'cv::UMat::addref' : fonction compilée en tant que code natif :
+  	un intrinsèque non pris en charge a été trouvé dans le code managé
+c:\computer vision\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef' : fonction compilée en tant que code natif :
+  	un intrinsèque non pris en charge a été trouvé dans le code managé
+c:\computer vision\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef' : fonction compilée en tant que code natif :
+  	un intrinsèque non pris en charge a été trouvé dans le code managé
+  Accueil.obj : /DEBUG:FASTLINK n'est pas pris en charge en présence de code managé ; redémarrage de l'édition des liens avec /DEBUG:FULL
+  Project.vcxproj -> C:\Users\asus\Documents\Visual Studio 2015\Projects\Project\x64\Debug\Project.exe
+  Project.vcxproj -> C:\Users\asus\Documents\Visual Studio 2015\Projects\Project\x64\Debug\Project.pdb (Partial PDB)
